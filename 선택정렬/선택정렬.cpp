@@ -1,5 +1,5 @@
 #include <stdio.h>
-//¼±ÅÃ Á¤·Ä ¾Ë°í¸®Áò ½Ç½À 
+//ì„ íƒì •ë ¬ 
 int main(void){
 	int temp, min, index;
 	int arr[] = {1,10,5,8,7,6,4,3,2,9};
